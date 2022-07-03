@@ -10,4 +10,5 @@ function hideMenu() {
     navLinks.style.right = "-200px";
 }
 
+
 // End toggle menu mobile devices
